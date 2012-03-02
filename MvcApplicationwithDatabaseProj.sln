@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationwithDatabaseProj", "MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.csproj", "{966815C2-EB80-4936-A942-BAB0A95E3B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationwithDatabaseProj.Tests", "MvcApplicationwithDatabaseProj.Tests\MvcApplicationwithDatabaseProj.Tests.csproj", "{104D44AE-40AE-4B9E-8E19-FC0E33171ED3}"
+EndProject
+Project("{C8D11400-126E-41CD-887F-60BD40844F9E}") = "Database1", "Database1\Database1.dbproj", "{67CBC824-A49E-4E9B-A947-360F3DFE65C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966815C2-EB80-4936-A942-BAB0A95E3B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966815C2-EB80-4936-A942-BAB0A95E3B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966815C2-EB80-4936-A942-BAB0A95E3B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966815C2-EB80-4936-A942-BAB0A95E3B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104D44AE-40AE-4B9E-8E19-FC0E33171ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104D44AE-40AE-4B9E-8E19-FC0E33171ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104D44AE-40AE-4B9E-8E19-FC0E33171ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104D44AE-40AE-4B9E-8E19-FC0E33171ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

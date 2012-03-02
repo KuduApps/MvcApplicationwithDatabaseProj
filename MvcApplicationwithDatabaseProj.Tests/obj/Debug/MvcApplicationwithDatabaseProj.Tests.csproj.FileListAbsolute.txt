@@ -1,0 +1,8 @@
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\bin\Debug\MvcApplicationwithDatabaseProj.Tests.dll.config
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\bin\Debug\MvcApplicationwithDatabaseProj.Tests.dll
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\bin\Debug\MvcApplicationwithDatabaseProj.Tests.pdb
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\bin\Debug\MvcApplicationwithDatabaseProj.dll
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\bin\Debug\MvcApplicationwithDatabaseProj.pdb
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\obj\Debug\MvcApplicationwithDatabaseProj.Tests.dll
+D:\TestApps\MvcApplicationwithDatabaseProj\MvcApplicationwithDatabaseProj.Tests\obj\Debug\MvcApplicationwithDatabaseProj.Tests.pdb

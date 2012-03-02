@@ -1,0 +1,8 @@
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1_Script.PreDeployment.sql
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1_Script.PostDeployment.sql
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1_Database.sqlsettings
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1_Database.sqldeployment
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1_Database.sqlcmdvars
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1.deploymanifest
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\sql\debug\Database1.dbschema
+D:\TestApps\MvcApplicationwithDatabaseProj\Database1\obj\Debug\Database1.dbschema
